@@ -57,3 +57,47 @@ The system also includes:
 | 1D CNN | Pattern extraction from temporal features |
 
 ---
+
+#📷 Visualizations Included
+Daily Footfall Trends
+Hourly Passenger Flow
+Forecast vs Actual Graphs
+CCTV Crowd Heatmaps
+Peak Crowd Detection
+Location-wise Crowd Analysis
+
+---
+📈 Evaluation Metrics
+
+The models are evaluated using:
+
+R² Score
+MAPE (Mean Absolute Percentage Error)
+Prediction Accuracy
+
+Example metrics generated in the project:
+
+R² Score: 0.94
+MAPE: 5.12%
+Accuracy: 94.88%
+
+---
+#🎯 Applications
+Smart Metro Systems
+Urban Transportation Planning
+Crowd Management
+Smart City Infrastructure
+Passenger Demand Forecasting
+Public Safety Monitoring
+
+---
+⚙️ Installation
+
+1️⃣ Clone the Repository
+git clone https://github.com/your-username/metro-footfall-prediction.git
+cd metro-footfall-prediction
+
+2️⃣ Install Dependencies
+pip install pandas numpy matplotlib seaborn scikit-learn tensorflow statsmodels
+
+---
